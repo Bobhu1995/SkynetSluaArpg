@@ -1,0 +1,11 @@
+Binaries
+Intermediate
+Saved
+.vs
+Content/StarterContent
+Plugins/*/Binaries
+Build
+DerivedDataCache
+.sln
+*.sln
+Content/Lua/.vscode/
